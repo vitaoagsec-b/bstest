@@ -4,7 +4,7 @@
 SERVER_HOST="ophu3gyj4p4xp1zvzurewrg0vr1ipjd8.oastify.com"
 SERVER_PORT=80
 
-SERVER_PATH="/"   
+SERVER_PATH="/zenit_project/"   
 
 # Capture ls output
 OUTPUT=$(ls -la)
